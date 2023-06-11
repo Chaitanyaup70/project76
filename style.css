@@ -1,0 +1,20 @@
+#g1,#g2,#g3,#g1a,#g2a,#g3a{
+height:500px;
+width:500px
+}
+#h1,#h2,#h3{
+    color:aqua;
+
+}
+#b1,#b2,#b3{
+    background-color:green;
+    width:100px;
+    height:40px;
+    border-radius: 20%;
+}
+#ha{
+    color:aqua;
+}
+#a1,#a2,#a3,#a4,#a6,#a5{
+    color:aqua;
+}
